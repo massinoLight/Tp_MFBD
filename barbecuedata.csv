@@ -1,0 +1,10 @@
+Meteo;Amis ;Vent;Jours;Decision
+soleil;presents;faible;week-end;1
+soleil;absents;fort;semaine;0
+soleil;presents;fort;semaine;0
+soleil;absents;faible;semaine;1
+nuages;absents;faible;week-end;0
+nuages;presents;fort;week-end;0
+nuages;absents;fort;semaine;0
+nuages;presents;faible;week-end;1
+soleil;absents;faible;week-end;0
